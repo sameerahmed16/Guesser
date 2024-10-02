@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Guesser/static/css/main.e7644a36.css",
+    "main.css": "/Guesser/static/css/main.60c5011d.css",
     "main.js": "/Guesser/static/js/main.2096acce.js",
     "static/js/453.48864299.chunk.js": "/Guesser/static/js/453.48864299.chunk.js",
     "index.html": "/Guesser/index.html",
-    "main.e7644a36.css.map": "/Guesser/static/css/main.e7644a36.css.map",
+    "main.60c5011d.css.map": "/Guesser/static/css/main.60c5011d.css.map",
     "main.2096acce.js.map": "/Guesser/static/js/main.2096acce.js.map",
     "453.48864299.chunk.js.map": "/Guesser/static/js/453.48864299.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7644a36.css",
+    "static/css/main.60c5011d.css",
     "static/js/main.2096acce.js"
   ]
 }
